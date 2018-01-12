@@ -1,1 +1,9 @@
-sdfoijsdfoijsdfoijsdfioj
+#sdfoijsdfoijsdfoijsdfioj
+public static void main(String args[]){
+init();
+int v = 0;
+double d = 0.4;
+f(v, d)
+
+finalize();
+}
